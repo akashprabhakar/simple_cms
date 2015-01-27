@@ -1,0 +1,8 @@
+-create database
+-create user model
+-add ALTERUSERS migration
+	-rename & add column ...add_index
+-create Subject ,pages and section models
+	add columns and indexes (foriegn keys )
+-order,limit,offset,where
+-scope validations...lambda for rails4 searh
